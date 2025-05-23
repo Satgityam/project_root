@@ -22,5 +22,5 @@ This project simulates UPI transactions and flags potentially fraudulent activit
 - REST API endpoints
 
 ## 👨‍💻 Author
-Your Name | M.Tech Student
+Satyam Kumar | M.Tech Student
 
